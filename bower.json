@@ -1,0 +1,21 @@
+{
+  "name": "offline-firebase",
+  "version": "0.0.3",
+  "homepage": "https://github.com/khartash/offline-firebase",
+  "authors": [
+    "akhanoyan <akhanoyan@macadamian.com>"
+  ],
+  "main": ["firebase-debug.js", "OfflineFirebase.js"],
+  "keywords": [
+    "firebase",
+    "offline"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

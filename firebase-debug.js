@@ -8139,7 +8139,7 @@ fb.core.util.NextPushId = function() {
     return id
   }
 }();
-goog.provide("Firebase");
+goog.provide("Firebase-debug");
 goog.require("fb.constants");
 goog.require("fb.core.util");
 goog.require("fb.core.RepoManager");

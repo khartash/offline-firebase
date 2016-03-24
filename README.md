@@ -1,3 +1,7 @@
+Bower package for https://github.com/yeldarby/offline-firebase
+
+See author's description below
+
 offline-firebase
 ================
 
