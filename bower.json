@@ -1,11 +1,14 @@
 {
   "name": "offline-firebase",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/khartash/offline-firebase",
   "authors": [
     "akhanoyan <akhanoyan@macadamian.com>"
   ],
-  "main": ["firebase-debug.js", "OfflineFirebase.js"],
+  "main": [
+    "firebase-debug.js",
+    "OfflineFirebase.js"
+  ],
   "keywords": [
     "firebase",
     "offline"
@@ -17,5 +20,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "firebase": "~2.4.2"
+  }
 }
